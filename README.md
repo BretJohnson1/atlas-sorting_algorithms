@@ -1,1 +1,1 @@
-# atlas-sorting_algorithms
+This is my sorting algorithms project. I will be learnign about/using simple sorting algorithms to do some sorting and stuff.
