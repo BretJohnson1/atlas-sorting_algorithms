@@ -27,7 +27,8 @@ while (current != NULL)
 
     if (current->prev == NULL)
     *list = current;
-elementscurrent->prev->next = current;
+    else
+    current->prev->next = current;
 
 print_list(*list);
     }
